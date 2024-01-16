@@ -1,4 +1,4 @@
-# Advanced Retrieval for AI with Chroma 
+# Advanced Retrieval for AI apps with Chroma 
 (based on materials on deaplearning.ai)
 
 ## Overview
